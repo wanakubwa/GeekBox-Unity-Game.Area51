@@ -1,4 +1,4 @@
-# Unity Game - Escape the Lab
+# Unity Game - Escape the Lab  ![GeekBox Logo](Game_Images/150x150_Logo.png "GeekBox logo")
 
 
 Pliki źródłowe gry o nazwie "Escape the Lab". <br>
