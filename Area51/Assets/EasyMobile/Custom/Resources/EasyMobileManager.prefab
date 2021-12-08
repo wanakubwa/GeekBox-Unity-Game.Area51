@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2747986168013981868
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2747986168013981866}
+  - component: {fileID: 2747986168013981869}
+  m_Layer: 0
+  m_Name: EasyMobileManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2747986168013981866
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2747986168013981868}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 123.18813, y: 270.94327, z: -35.716274}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2747986168013981869
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2747986168013981868}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76bab48339130ae4db3e114c21723fcb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  customPrivacy:
+    gdprConstentPrefab: {fileID: 3766382780510321947, guid: dfe9cd315b110ce409a570cbc3483a56,
+      type: 3}
+  localization:
+    adsLocAsset: {fileID: 4900000, guid: 211ea7adc125ba4408d360bc375dfe45, type: 3}
+    linesDivider: 10
+    fieldsDivider: 59
+    privacyPolicyTag: $POLICY_URL
+    privacyPolicyUrl: https://blackout.flycricket.io/privacy.html
